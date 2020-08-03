@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,GACE,SAAU,CACX,iBAGC,eAAgB","file":"main.3b57fe0f.chunk.css","sourcesContent":["h1 {\n  color: red;\n}\n\n.page-link:focus {\n  box-shadow: none;\n}\n"]}
